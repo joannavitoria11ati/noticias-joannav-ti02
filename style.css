@@ -184,7 +184,7 @@ main {
     font-size: 1.25rem;
     font-weight: 800;
     line-height: 1.5rem;
-    margim-block: 0.6rem;
+    margin-block: 0.6rem;
 }
 
 .terceira-secao p {
@@ -260,4 +260,3 @@ main {
     .terceira-secao h2:hover {
         color: var(--vermillion);
     }
-}
